@@ -1,0 +1,2 @@
+#!/bun/bash
+echo $((128 + $TRUEKNOWLEDGE))
