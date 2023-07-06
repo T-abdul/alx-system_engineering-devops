@@ -1,13 +1,37 @@
-Fix my code
+AirBnB clone - Deploy static
+Resources
 
-Background Context
+Read or watch:
 
-Fix my code is a new type of project, where we’ll jump into an existing code base and fix it!
+    How to use Fabric
+    How to use Fabric in Python
+    Fabric and command line options
+    CI/CD concept page
+    Nginx configuration for beginners
+    Difference between root and alias on NGINX
+    Fabric for Python 3
+    Fabric Documentation
 
-Sometime you will know the language, sometime not.
+https://www.pythonforbeginners.com/systems-programming/how-to-use-fabric-in-python
+https://www.digitalocean.com/community/tutorials/how-to-use-fabric-to-automate-administration-tasks-and-deployments
+https://docs.fabfile.org/en/1.13/usage/fab.html
+https://intranet.alxswe.com/concepts/43
+https://blog.heitorsilva.com/en/nginx/diferenca-entre-root-e-alias-do-nginx/
+http://nginx.org/en/docs/beginners_guide.html
+https://github.com/mathiasertl/fabric
+https://www.fabfile.org/
 
-Please download the repository 0x01-Fix_My_Code_Challenge and use it as initial files for all solutions.
+Learning Objectives
 
-You should not recode everything, just fix it!
+At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+General
 
-This project is NOT mandatory at all. It is 100% optional. Doing any part of this project will add a project grade of over 100% to your average. Your score won’t get hurt if you don’t do it, but if your current average is greater than your score on this project, your average might go down. Have fun!
+    What is Fabric
+    How to deploy code to a server easily
+    What is a tgz archive
+    How to execute Fabric command locally
+    How to execute Fabric command remotely
+    How to transfer files with Fabric
+    How to manage Nginx configuration
+    What is the difference between root and alias in a Nginx configuration
+
